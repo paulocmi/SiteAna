@@ -1,0 +1,17 @@
+2016/01/18 18:52:24 INFO  - jmeter.util.JMeterUtils: Setting Locale to pt_BR 
+2016/01/18 18:52:24 INFO  - jmeter.JMeter: Loading user properties from: C:\GatewayConnectorTest\Jmeter_2.13\bin\user.properties 
+2016/01/18 18:52:24 INFO  - jmeter.JMeter: Loading system properties from: C:\GatewayConnectorTest\Jmeter_2.13\bin\system.properties 
+2016/01/18 18:52:24 INFO  - jmeter.JMeter: Copyright (c) 1998-2015 The Apache Software Foundation 
+2016/01/18 18:52:24 INFO  - jmeter.JMeter: Version 2.13 r1665067 
+2016/01/18 18:52:24 INFO  - jmeter.JMeter: java.version=1.8.0_60 
+2016/01/18 18:52:24 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2016/01/18 18:52:24 INFO  - jmeter.JMeter: os.name=Windows 10 
+2016/01/18 18:52:24 INFO  - jmeter.JMeter: os.arch=amd64 
+2016/01/18 18:52:24 INFO  - jmeter.JMeter: os.version=10.0 
+2016/01/18 18:52:24 INFO  - jmeter.JMeter: file.encoding=Cp1252 
+2016/01/18 18:52:24 INFO  - jmeter.JMeter: Default Locale=português (Brasil) 
+2016/01/18 18:52:24 INFO  - jmeter.JMeter: JMeter  Locale=português (Brasil) 
+2016/01/18 18:52:24 INFO  - jmeter.JMeter: JMeterHome=C:\GatewayConnectorTest\Jmeter_2.13 
+2016/01/18 18:52:24 INFO  - jmeter.JMeter: user.dir  =C:\QA_Codes\Exemplos\yo-angular-express-sequelize 
+2016/01/18 18:52:24 INFO  - jmeter.JMeter: PWD       =C:\QA_Codes\Exemplos\yo-angular-express-sequelize 
+2016/01/18 18:52:24 INFO  - jmeter.JMeter: IP: 10.1.12.17 Name: vtex FullName: vtex 
