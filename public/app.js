@@ -3,7 +3,7 @@ var app = angular.module('myApp',['ui.router',"formly","formlyBootstrap"]);
 // Definindo Rotas
 app.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
 
-    $urlRouterProvider.otherwise('/');
+    $urlRouterProvider.otherwise('/home');
 
     $stateProvider
     .state('Home', {
